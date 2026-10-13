@@ -1,0 +1,27 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.vscode/
+.env
+.streamlit/secrets.toml
+*.log
+
+# Local environments and credentials
+.venv/
+.env.*
+.idea/
+._*
+
+# Academic records and private input documents
+*.xlsx
+*.xls
+*.csv
+*.pdf
+data/*
+!data/README.md
+uploads/
+results/
+runs/
+Scanner-Evaluasi/
